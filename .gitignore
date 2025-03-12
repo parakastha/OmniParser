@@ -10,3 +10,17 @@ util/__pycache__/
 index.html?linkid=2289031
 wget-log
 weights/icon_caption_florence_v2/
+
+# IDE files
+.idea/
+*.iml
+OmniParser.iml
+.idea/*.xml
+aws.xml
+modules.xml
+vcs.xml
+
+# Virtual environment
+omni_env/
+*/__pycache__/
+*.pyc
